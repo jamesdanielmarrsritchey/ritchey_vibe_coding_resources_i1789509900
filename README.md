@@ -1,1 +1,3 @@
-# ritchey_vibe_coding_resources_i1789509900
+# Readme
+
+This file is here for compatibility purposes. Read "/Meta/Meta.txt", "/Meta/Description.txt", and "/Meta/Notes.txt" instead.

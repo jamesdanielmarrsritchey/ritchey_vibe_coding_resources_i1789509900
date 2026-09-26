@@ -1,0 +1,3 @@
+# Description
+
+Ritchey Vibe Coding Resources is a collection of specifications, and other information for AI-tools to follow when being used to vibe code.

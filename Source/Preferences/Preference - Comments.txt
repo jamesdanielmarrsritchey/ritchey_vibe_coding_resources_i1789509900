@@ -1,0 +1,3 @@
+# Preference: Comments
+
+I prefer that each line of code (does not apply to HTML, or CSS) have a comment describing what it does. I prefer each function to have a description comment. I prefer each include (e.g., PHP includes) to have a description comment. I prefer each file to have a description comment. An example of a description comment would be "# Description: This function hashes a string, and returns a checksum encoded in hexidecimal format."

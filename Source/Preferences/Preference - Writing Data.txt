@@ -1,0 +1,3 @@
+# Preference: Writing Data
+
+I prefer that any code related to writing files, or folders be made into a separate function (if possible), and stored in a separate file, so it can more easily be vetted for safety by a human. I prefer it have comments for each line of code, and that comments are very detailed, so it clear how it works. There should be a comment at the top of the file stating that it writes files, or folders. The filename should contain ".writer" (preferred), "_writer", or "writer" before the file extension.

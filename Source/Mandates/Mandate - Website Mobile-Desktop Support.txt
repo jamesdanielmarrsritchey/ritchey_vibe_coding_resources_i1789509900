@@ -1,0 +1,3 @@
+# Mandate: Website Mobile-Desktop Support
+
+I mandate that for websites the theme must be adaptive to portrait, and landscape screens.

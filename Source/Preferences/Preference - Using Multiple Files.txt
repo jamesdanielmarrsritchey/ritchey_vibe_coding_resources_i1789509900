@@ -1,0 +1,3 @@
+# Preference: Using Multiple Files
+
+In languages which support it, I prefer that code be broken across multiple files (e.g., includes), so that each file can handle specific generic things. I prefer functions to have their own files.

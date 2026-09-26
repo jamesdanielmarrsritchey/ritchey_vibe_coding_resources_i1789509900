@@ -1,0 +1,3 @@
+# Preference: Website-Webapp Design
+
+I prefer, unless I request otherwise, that the example project Ritchey RML To HTML i1790129940 v1 be used as a design basis for websites, and webapps in terms of appearance, and features. Basically, any new website, or webapp should look the same, and work the same, unless I've requested otherwise.

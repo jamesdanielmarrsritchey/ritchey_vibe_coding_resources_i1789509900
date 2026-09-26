@@ -1,0 +1,3 @@
+# Mandate: Content Files
+
+I mandate that Content Files (as defined by the provided specification) be used in web applications for user inputted data that is not suitable for configuration files (e.g., text to display on a CMS legal page).

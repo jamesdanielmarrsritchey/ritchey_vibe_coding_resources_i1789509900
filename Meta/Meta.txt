@@ -1,0 +1,9 @@
+# Meta
+
+Name: Ritchey Vibe Coding Resources
+Implementation: 1789509900
+Version: 2
+Release Type: Stable
+Long Identifier: Ritchey Vibe Coding Resources i1789509900 v2
+Short Identifier: RVCRi1789509900v2
+Author: James Daniel Marrs Ritchey

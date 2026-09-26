@@ -1,0 +1,3 @@
+# Preference: OOP
+
+I prefer that object-orientated code be avoided in favour of functional programming. If object-orientated code must be used, I prefer it be put into a function that converts it to functional code, if possible.

@@ -1,0 +1,3 @@
+# Preference: True/False Checks
+
+I prefer that when code/scripts check if something is true, or false, they avoid things like "if ($variable){", because it's less readable than options like "if ($variable === TRUE){".

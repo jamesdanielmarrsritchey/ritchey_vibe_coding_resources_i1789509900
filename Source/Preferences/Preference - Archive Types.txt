@@ -1,0 +1,3 @@
+# Preference: Archive Types
+
+When a project is modified, I prefer the updated project to be archived in a ZIP archive if it is Stable or Working Draft release. I prefer the updated project to be archived as a TAR archive, and compressed with GZIP if it s a Work In Progress (WIP). If unsure of the type of release, I prefer it be assumed a Work In Progress (WIP).

@@ -1,0 +1,6 @@
+# Index
+
+- "/Specifications" contains documents detailing how code MUST be written, how projects MUST be structured, and how programs MUST be named.
+- "/Mandates" contains actions that must be followed.
+- "/Assets" contains icons, license texts, and other materials which should be re-used in projects they apply to.
+- "/Preferences" contains descriptions of preferred ways to do things, where possible.

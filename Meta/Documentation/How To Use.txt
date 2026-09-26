@@ -1,0 +1,10 @@
+# How To Use
+
+To vibe code using this resource set, append the following to your initial AI project prompt.
+
+PROMPT:
+"
+
+
+For this project, use the contents of "/Source" in the provided Ritchey Vibe Coding Resources i1789509900 v1 archive. It contains specifications you must adhere to, mandates you must follow, preferences for how I like things done, and assets (e.g., empty project template) that may be useful.
+"

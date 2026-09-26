@@ -1,0 +1,3 @@
+# Mandate: Compiled Code
+
+For applications written in languages that require compilation, never include the compiled binaries in releases. Doing so can impact licensing.

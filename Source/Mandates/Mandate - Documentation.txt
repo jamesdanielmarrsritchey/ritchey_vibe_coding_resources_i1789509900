@@ -1,0 +1,3 @@
+# Mandate: Documentation
+
+I mandate that any documentation be written in Ritchey Markup Language v?.

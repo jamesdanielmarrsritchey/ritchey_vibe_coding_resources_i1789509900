@@ -1,0 +1,21 @@
+# Mandate: PHP-Based Static Website Generators Layout
+
+I mandate that PHP-based static website generators use the following folders in "/Source".
+
+LIST:
+- "/Source/Assets" for icons, and other images used in the system.
+- "/Source/Configuration Files" for configuration files.
+- "/Source/Content Files" for content files.
+- "/Source/Custom Dependencies" for generic functions created for the project, but potentially re-usable for other projects.
+- "/Source/Dependencies" for functions I've provided that were created by me.
+- "/Source/Foreign Dependencies" for functions, or includes created by third-parties.
+- "/Source/Includes" for PHP includes.
+- "/Source/Evals" for PHP files being run with eval().
+- "/Source/Uploads" for where the user can add files they want included in the static website as uploads.
+- "/www/public" as an empty directory where the static website files will be written by default.
+
+The public directory (regardless of whether stored in the default location) should contain the following sub-folders.
+
+LIST:
+- "/www/public/assets" for icons, css files, javascript files, and other images used by the website.
+- "/www/public/downloads" for storing files uploaded to the site.

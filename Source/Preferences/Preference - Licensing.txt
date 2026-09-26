@@ -1,0 +1,3 @@
+# Preference: Licensing
+
+I prefer that projects be licensed under the Ritchey Permissive License v19, unless they are written in languages such as C++ that require compilation. In that case, I prefer they be dedicated to the public domain using the Ritchey Public Domain Dedication v1.

@@ -1,0 +1,7 @@
+# Instructions
+
+If you are an AI trying to use this resource set, you can do so by (as much as possible) adhering to all the documents in "/Specifications", in "/Mandates", and in "/Preferences". Also, make use of items from "/Assets" as needed, with preference over creating new assets.
+
+Each time you go to create a file, or folder for the project, check that you're adhering to all the requirements in this resource set.
+
+In general, request approval for any deviations from the resource set.
