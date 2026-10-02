@@ -1,0 +1,6 @@
+# Mandate: Linux Binary Naming
+
+When a program is compiled from source into a binary for use on Linux, the filename should be "application", and the file extension ".lin" (recommended), ".linexe", or ".linex" (e.g., "application.lin"). An exception to this is if a program compiles to multiple binaries, in which case they should be given descriptive names (e.g., "hash_files.lin"), and placed in a folder named "application_lin", "application_linexe", or "application_linex". Documentation on compiling applications from source for Linux must follow this convention. It is recommended to mention in such documentation though that this naming convention is recommended by the project, but is not standard within the Linux community. This can be done using the following statement:
+"
+The lin/linexe/linex naming convention used in this document is recommended by this project, because it provides clarity, but is not standard, or common, within the Linux community.
+"

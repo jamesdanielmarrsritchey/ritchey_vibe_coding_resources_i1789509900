@@ -1,3 +1,0 @@
-# Mandate: Ritchey Markup Language
-
-I mandate that all documentation be written in Ritchey Markup Language, unless something else is explicitly requested.

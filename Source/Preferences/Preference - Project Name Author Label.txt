@@ -1,0 +1,3 @@
+# Preference: Project Name Author Label
+
+I prefer the default author label used in project names be Ritchey&AI (ritcheyandai), unless I state otherwise.

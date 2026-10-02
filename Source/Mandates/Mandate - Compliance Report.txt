@@ -1,6 +1,6 @@
 # Mandate: Compliance Report
 
-I mandate that every time a new release is made, a new plain-text file named "Compliance Report.txt" be added to the main folder of project. If there is a previous compliance report file present, it can be overwritten. This file must contain the results of an examination of each code file in the project, stating any deviations from specifications, mandates, and preferences. It must state the reasons for non-compliance. It must provide an overall compliance score. An example is provided below.
+Every time a new release is made, a new plain-text file named "Compliance Report.txt" must be added to the main folder of project. If there is a previous compliance report file present, it can be overwritten. This file must contain the results of an examination of each code file in the project, stating any deviations from specifications, mandates, and preferences. It must state the reasons for non-compliance. It must provide an overall compliance score. An example is provided below.
 
 EXAMPLE COMPLIANCE REPORT:
 "

@@ -1,0 +1,3 @@
+# Preference: AI Disclosure
+
+I prefer that the AI disclosure document classify the project as class 2 (see specification).

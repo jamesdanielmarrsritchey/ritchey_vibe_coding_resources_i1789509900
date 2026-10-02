@@ -2,5 +2,5 @@
 
 Some useful bits of information about the project.
 
-List:
-- 
+LIST:
+- Users should edit, or delete preferences before using this resource kit, as it was built for me specifically.

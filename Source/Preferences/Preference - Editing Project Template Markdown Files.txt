@@ -1,0 +1,3 @@
+# Preference: Editing Project Template Markdown Files
+
+I prefer that if the Ritchey Project Template i1780866800 is used as the basis for structuring a project, the Markdown (.md) files in the project root are not edited by AI.

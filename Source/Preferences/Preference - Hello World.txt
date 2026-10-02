@@ -1,0 +1,3 @@
+# Preference: Hello World
+
+I prefer that webapp, and website projects contain a file called "Hello World.txt" in the root of the website/webapp. The file should contain "Hello, world", or a translation of it. For example, if a project is a website, in the root of the website, there would be a "Hello World.txt" file. As another example, if the project is a static website generator, the generator would create a "Hello World.txt" file when it generates website instances.

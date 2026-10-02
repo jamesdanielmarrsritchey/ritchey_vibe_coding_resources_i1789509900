@@ -1,3 +1,3 @@
 Mandate: Foreign Materials
 
-I mandate that this project must be an entirely original work except where express permission is given to incorporate third-party materials (e.g., code, binaries, images, etc). The reason being that third-party materials impact licensing.
+This project must be an entirely original work except where express permission is given to incorporate third-party materials (e.g., code, binaries, images, etc). The reason being that third-party materials impact licensing.

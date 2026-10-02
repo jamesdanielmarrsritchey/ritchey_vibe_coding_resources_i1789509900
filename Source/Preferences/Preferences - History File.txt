@@ -1,0 +1,3 @@
+# Preferences: History File
+
+I prefer that if the file "/Meta/History.txt" is edited to include highlighted changes, those changes be limited to things which occurred in the current release, since the previous release. Only big changes that impact the user should be noted.

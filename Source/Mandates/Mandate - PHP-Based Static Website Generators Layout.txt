@@ -1,6 +1,6 @@
 # Mandate: PHP-Based Static Website Generators Layout
 
-I mandate that PHP-based static website generators use the following folders in "/Source".
+PHP-based static website generators must use the following folders in "/Source".
 
 LIST:
 - "/Source/Assets" for icons, and other images used in the system.
